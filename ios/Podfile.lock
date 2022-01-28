@@ -1,7 +1,14 @@
 PODS:
+  - ai_barcode (0.0.1):
+    - Flutter
+    - MTBBarcodeScanner
+  - camera (0.0.1):
+    - Flutter
   - contacts_service (0.2.2):
     - Flutter
   - device_info_plus (0.0.1):
+    - Flutter
+  - external_app_launcher (0.0.1):
     - Flutter
   - Flutter (1.0.0)
   - geolocator_apple (1.2.0):
@@ -12,24 +19,45 @@ PODS:
   - qr_code_scanner (0.2.0):
     - Flutter
     - MTBBarcodeScanner
+  - sms_advanced (0.0.1):
+    - Flutter
+  - upi_pay (1.0.0):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - workmanager (0.0.1):
+    - Flutter
 
 DEPENDENCIES:
+  - ai_barcode (from `.symlinks/plugins/ai_barcode/ios`)
+  - camera (from `.symlinks/plugins/camera/ios`)
   - contacts_service (from `.symlinks/plugins/contacts_service/ios`)
   - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - external_app_launcher (from `.symlinks/plugins/external_app_launcher/ios`)
   - Flutter (from `Flutter`)
   - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
   - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
   - qr_code_scanner (from `.symlinks/plugins/qr_code_scanner/ios`)
+  - sms_advanced (from `.symlinks/plugins/sms_advanced/ios`)
+  - upi_pay (from `.symlinks/plugins/upi_pay/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - workmanager (from `.symlinks/plugins/workmanager/ios`)
 
 SPEC REPOS:
   trunk:
     - MTBBarcodeScanner
 
 EXTERNAL SOURCES:
+  ai_barcode:
+    :path: ".symlinks/plugins/ai_barcode/ios"
+  camera:
+    :path: ".symlinks/plugins/camera/ios"
   contacts_service:
     :path: ".symlinks/plugins/contacts_service/ios"
   device_info_plus:
     :path: ".symlinks/plugins/device_info_plus/ios"
+  external_app_launcher:
+    :path: ".symlinks/plugins/external_app_launcher/ios"
   Flutter:
     :path: Flutter
   geolocator_apple:
@@ -38,15 +66,30 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/permission_handler/ios"
   qr_code_scanner:
     :path: ".symlinks/plugins/qr_code_scanner/ios"
+  sms_advanced:
+    :path: ".symlinks/plugins/sms_advanced/ios"
+  upi_pay:
+    :path: ".symlinks/plugins/upi_pay/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  workmanager:
+    :path: ".symlinks/plugins/workmanager/ios"
 
 SPEC CHECKSUMS:
+  ai_barcode: 67fb0a7b732dbb87e92b59bb90a438db9383fa2f
+  camera: fe33292aff715a981eb34d7ce7b35b54337ff34c
   contacts_service: 849e1f84281804c8bfbec1b4c3eedcb23c5d3eca
   device_info_plus: e5c5da33f982a436e103237c0c85f9031142abed
+  external_app_launcher: ad55ac844aa21f2d2197d7cec58ff0d0dc40bbc0
   Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
   geolocator_apple: b741765c55dc21950e3e106e8b3584e55cf81ce5
   MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
   permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
   qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
+  sms_advanced: 0af1ef789fa0ba863d5f4099ea04619a73ab6dbd
+  upi_pay: 16008b0cbb4d248b895e587661eab2446926c51e
+  url_launcher_ios: 02f1989d4e14e998335b02b67a7590fa34f971af
+  workmanager: 0afdcf5628bbde6924c21af7836fed07b42e30e6
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
