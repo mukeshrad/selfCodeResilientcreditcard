@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1504141493/android.ai_barcode.iml" filepath="$PROJECT_DIR$/.idea/modules/-1504141493/android.ai_barcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-202065094/android.camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-202065094/android.camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1369686928/android.contacts_service.iml" filepath="$PROJECT_DIR$/.idea/modules/-1369686928/android.contacts_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/73698063/android.device_apps.iml" filepath="$PROJECT_DIR$/.idea/modules/73698063/android.device_apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/251183174/android.device_info_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/251183174/android.device_info_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1509322358/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1509322358/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-903815818/android.geolocator_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-903815818/android.geolocator_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/167549379/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/167549379/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1692546401/android.qr_code_scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/1692546401/android.qr_code_scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-822611160/android.sms_advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/-822611160/android.sms_advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1339309938/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1339309938/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2102143313/android.workmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/2102143313/android.workmanager.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/ai_barcode-3.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/camera-0.9.4+5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/contacts_service-0.6.3/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/device_apps-2.1.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/device_info_plus-3.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.5/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/geolocator_android-2.1.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.3.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/qr_code_scanner-0.6.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sms_advanced-1.0.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.13/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/workmanager-0.4.1/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
