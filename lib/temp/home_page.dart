@@ -50,11 +50,15 @@ class _MyHomePageState extends State<MyHomePage> {
             // Choose(func: ()=>{Navigator.of(context).pushNamed('/proinfo')}, text: "Professional info"),
             Choose(func: ()=>{Navigator.of(context).pushNamed('/reqPerm')}, text: "Permission Request"),
             Choose(func: ()=>{Navigator.of(context).pushNamed('/root')}, text: "Homepage"),
-<<<<<<< Updated upstream
-=======
             Choose(func: ()=>{Navigator.of(context).pushNamed('/getst')}, text: "startScreen1"),
             Choose(func: ()=>{Navigator.of(context).pushNamed('/Bilpay')}, text: "Bil Pay"),
->>>>>>> Stashed changes
+            Choose(func: ()=>{Navigator.of(context).pushNamed('/quickPay')}, text: "Quick Pay"),
+            Choose(func: ()=>{Navigator.of(context).pushNamed('/apis')}, text: "Card Apis"),
+            // Choose(func: ()=>{Navigator.of(context).pushNamed('/notificationlist')}, text: "Notification list"),
+            // Choose(func: ()=>{Navigator.of(context).pushNamed('/upipayment')}, text: "UPI Payment"),
+            Choose(func: ()=>{Navigator.of(context).pushNamed('/NotificationListPage')}, text: "Notification Screen list"),
+
+
           ],
         ),
       )
